@@ -1,7 +1,7 @@
 {
   "name": "cleanslate",
   "version": "1.0.0",
-  "description": "Simple starting point for JavaScript applications with Webpack and mocha\u001b[D\u001b[D\u001b[D\u001b[M\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "description": "Simple starting point for JavaScript applications with Webpack and mocha",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha",
