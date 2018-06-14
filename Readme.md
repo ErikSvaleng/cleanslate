@@ -2,7 +2,7 @@
 
 This is a simple repo to provide a starting point for a new JavaScript app with webpack.
 
-Just type `npm start`, to fire up webpacks dev-server and code away!
+Just type `npm install` and then `npm start`, to fire up webpacks dev-server. Now you can code away!
 
 ## Usage
 If you get to the point where you want to check in your code to source controll, you can perform the following steps:
